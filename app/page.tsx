@@ -247,14 +247,14 @@ export default function LandingPage() {
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
               <Link href="/auth/register">
                 <Button size="lg" className="bg-teal-600 hover:bg-teal-700">
-                  Prueba gratis por 14 días
+                  Comenzar ahora
                 </Button>
               </Link>
-              <Link href="/contact">
+              {/* <Link href="/contact">
                 <Button variant="outline" size="lg">
                   Contactar con ventas
                 </Button>
-              </Link>
+              </Link> */}
             </div>
           </div>
         </section>

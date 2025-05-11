@@ -54,7 +54,8 @@
 - Proyecto universitario desarrollado para la materia de [Nombre de la materia]
 - Docente: [Nombre del docente]
 - Institución: [Nombre de la universidad]
-- Equipo: 
+- Equipo:  
+ 
   Ricardo Reyes Balam Cupul [Desarrollador Frontend]  
 
   Angel Alejandro Balderas Pech [Desarrollador Backend]  
