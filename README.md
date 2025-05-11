@@ -24,7 +24,7 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/micita.git
+   git clone https://github.com/rhzx0r/micita.git
    cd micita
 
 2. Instala las dependencias:
@@ -56,10 +56,10 @@
 - Institución: [Nombre de la universidad]
 - Equipo:  
  
-  Ricardo Reyes Balam Cupul [Desarrollador Frontend]  
+  Ricardo Reyes Balam Cupul **[Desarrollador Frontend]**  
 
-  Angel Alejandro Balderas Pech [Desarrollador Backend]  
+  Angel Alejandro Balderas Pech **[Desarrollador Backend]**  
 
-  Erik Yamily Agilar Itza [Tester/Documentadora]  
+  Erik Yamily Agilar Itza **[Tester/Documentadora]**  
 ## 📄 Licencia
 Este proyecto es de uso académico y no está destinado a producción. Para propósitos educativos solamente.
